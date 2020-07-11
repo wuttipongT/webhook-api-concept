@@ -1,0 +1,2 @@
+https://www.sqlservercentral.com/articles/linear-barcodes-in-ssrs-using-the-barcode-image-generation-library
+https://technology.amis.nl/2015/05/11/invoke-a-rest-service-from-plsql-make-an-http-post-request-using-utl_http-in-oracle-database-11g-xe/

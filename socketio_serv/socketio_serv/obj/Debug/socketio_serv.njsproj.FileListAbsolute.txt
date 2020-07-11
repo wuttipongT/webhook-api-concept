@@ -1,0 +1,3 @@
+C:\Users\C1609028\source\repos\socketio_serv\socketio_serv\obj\Debug\socketio_serv.njsprojAssemblyReference.cache
+C:\Users\C1609028\source\repos\socketio_serv\socketio_serv\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\C1609028\source\repos\socketio_serv\socketio_serv\obj\Debug\socketio_serv.njsproj.CoreCompileInputs.cache

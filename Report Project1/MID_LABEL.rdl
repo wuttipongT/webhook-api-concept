@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report MustUnderstand="df" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily">
+  <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
+  <AutoRefresh>0</AutoRefresh>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <ReportItems>
+          <Image Name="Image1">
+            <Source>Database</Source>
+            <Value>=Code.Convert("7WGWD20NMVW-59EDZS", "CODE128", 266, 53, False)</Value>
+            <MIMEType>image/bmp</MIMEType>
+            <Sizing>FitProportional</Sizing>
+            <Top>0.4028cm</Top>
+            <Left>0cm</Left>
+            <Height>1.40229cm</Height>
+            <Width>5cm</Width>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
+          <Textbox Name="Textbox6">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>PART NO.</Value>
+                    <Style>
+                      <FontFamily>Arial</FontFamily>
+                      <FontSize>6pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox6</rd:DefaultName>
+            <Top>0.14111cm</Top>
+            <Left>0cm</Left>
+            <Height>0.26169cm</Height>
+            <Width>2.5cm</Width>
+            <ZIndex>1</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox7">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>QTY.</Value>
+                    <Style>
+                      <FontFamily>Arial</FontFamily>
+                      <FontSize>6pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox6</rd:DefaultName>
+            <Top>1.49186cm</Top>
+            <Left>0cm</Left>
+            <Height>0.26169cm</Height>
+            <Width>2.5cm</Width>
+            <ZIndex>2</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Textbox>
+          <Image Name="Image3">
+            <Source>Database</Source>
+            <Value>=Code.Convert("1233", "CODE128", 0, 45)</Value>
+            <MIMEType>image/bmp</MIMEType>
+            <Sizing>FitProportional</Sizing>
+            <Top>1.78882cm</Top>
+            <Left>0cm</Left>
+            <Height>0.82737cm</Height>
+            <Width>5cm</Width>
+            <ZIndex>3</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
+          <Textbox Name="Textbox8">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>DATECOD</Value>
+                    <Style>
+                      <FontFamily>Arial</FontFamily>
+                      <FontSize>6pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox6</rd:DefaultName>
+            <Top>2.61619cm</Top>
+            <Left>0cm</Left>
+            <Height>0.26169cm</Height>
+            <Width>2.5cm</Width>
+            <ZIndex>4</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Textbox>
+          <Image Name="Image4">
+            <Source>Database</Source>
+            <Value>=Code.Convert("1604", "CODE128", 0, 45)</Value>
+            <MIMEType>image/bmp</MIMEType>
+            <Sizing>FitProportional</Sizing>
+            <Top>2.87788cm</Top>
+            <Left>0cm</Left>
+            <Height>0.82737cm</Height>
+            <Width>5cm</Width>
+            <ZIndex>5</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
+          <Textbox Name="Textbox9">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>LOTNO.</Value>
+                    <Style>
+                      <FontFamily>Arial</FontFamily>
+                      <FontSize>6pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox6</rd:DefaultName>
+            <Top>3.70525cm</Top>
+            <Left>0cm</Left>
+            <Height>0.26169cm</Height>
+            <Width>2.5cm</Width>
+            <ZIndex>6</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Textbox>
+          <Image Name="Image5">
+            <Source>Database</Source>
+            <Value>=Code.Convert("ASF1234567", "CODE128", 0, 45)</Value>
+            <MIMEType>image/bmp</MIMEType>
+            <Sizing>FitProportional</Sizing>
+            <Top>3.96694cm</Top>
+            <Left>0cm</Left>
+            <Height>0.82737cm</Height>
+            <Width>5cm</Width>
+            <ZIndex>7</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
+          <Textbox Name="Textbox10">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>REV</Value>
+                    <Style>
+                      <FontFamily>Arial</FontFamily>
+                      <FontSize>6pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox6</rd:DefaultName>
+            <Top>4.79431cm</Top>
+            <Left>0cm</Left>
+            <Height>0.26169cm</Height>
+            <Width>2.5cm</Width>
+            <ZIndex>8</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Textbox>
+          <Image Name="Image6">
+            <Source>Database</Source>
+            <Value>=Code.Convert("N/A", "CODE128", 0, 45)</Value>
+            <MIMEType>image/bmp</MIMEType>
+            <Sizing>FitProportional</Sizing>
+            <Top>5.06389cm</Top>
+            <Left>0cm</Left>
+            <Height>0.82737cm</Height>
+            <Width>5cm</Width>
+            <ZIndex>9</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
+          <Textbox Name="Textbox11">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>MID</Value>
+                    <Style>
+                      <FontFamily>Arial</FontFamily>
+                      <FontSize>6pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox6</rd:DefaultName>
+            <Top>5.89126cm</Top>
+            <Left>0cm</Left>
+            <Height>0.26169cm</Height>
+            <Width>2.5cm</Width>
+            <ZIndex>10</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Textbox>
+          <Image Name="Image7">
+            <Source>Database</Source>
+            <Value>=Code.Convert("123456789012", "CODE128", 0, 45)</Value>
+            <MIMEType>image/bmp</MIMEType>
+            <Sizing>FitProportional</Sizing>
+            <Top>6.15295cm</Top>
+            <Left>0cm</Left>
+            <Height>0.82737cm</Height>
+            <Width>5cm</Width>
+            <ZIndex>11</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
+        </ReportItems>
+        <Height>74mm</Height>
+        <Style>
+          <Border>
+            <Color>White</Color>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Body>
+      <Width>50mm</Width>
+      <Page>
+        <PageHeight>7.5cm</PageHeight>
+        <PageWidth>5.1cm</PageWidth>
+        <LeftMargin>0cm</LeftMargin>
+        <RightMargin>0cm</RightMargin>
+        <TopMargin>0cm</TopMargin>
+        <BottomMargin>0cm</BottomMargin>
+        <ColumnSpacing>0.13cm</ColumnSpacing>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParametersLayout>
+    <GridLayoutDefinition>
+      <NumberOfColumns>4</NumberOfColumns>
+      <NumberOfRows>2</NumberOfRows>
+    </GridLayoutDefinition>
+  </ReportParametersLayout>
+  <Code>Public Function Convert(Text As String, EncodingTypeKey As String,Width as Integer, Height as Integer,  Optional ByVal BarWidth As Boolean = True) As Byte()
+           Dim b As System.Drawing.Bitmap
+           Dim Barcode As New BarcodeLib.Barcode
+           Barcode.Alignment = BarcodeLib.AlignmentPositions.LEFT
+           Barcode.IncludeLabel = True
+           Barcode.LabelPosition = BarcodeLib.LabelPositions.BOTTOMCENTER
+           Barcode.RotateFlipType = Drawing.RotateFlipType.RotateNoneFlipNone
+
+           if (BarWidth = True)
+               Barcode.BarWidth = 1
+           End If
+           
+           If (EncodingTypeKey = "BOOKLAND") 
+                b = Barcode.Encode(BarcodeLib.TYPE.BOOKLAND, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "Codabar") 
+                b = Barcode.Encode(BarcodeLib.TYPE.Codabar, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "CODE11") 
+                b = Barcode.Encode(BarcodeLib.TYPE.CODE11, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "CODE39") 
+                b = Barcode.Encode(BarcodeLib.TYPE.CODE39, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "CODE39Extended") 
+                b = Barcode.Encode(BarcodeLib.TYPE.CODE39Extended, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "CODE39_Mod43") 
+                b = Barcode.Encode(BarcodeLib.TYPE.CODE39_Mod43, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "CODE128") 
+                b = Barcode.Encode(BarcodeLib.TYPE.CODE128, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "CODE128A") 
+                b = Barcode.Encode(BarcodeLib.TYPE.CODE128A, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "CODE128B") 
+                b = Barcode.Encode(BarcodeLib.TYPE.CODE128B, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "CODE128C") 
+                b = Barcode.Encode(BarcodeLib.TYPE.CODE128C, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "CODE93") 
+                b = Barcode.Encode(BarcodeLib.TYPE.CODE93, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "EAN13") 
+                b = Barcode.Encode(BarcodeLib.TYPE.EAN13, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "EAN8") 
+                b = Barcode.Encode(BarcodeLib.TYPE.EAN8, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "FIM") 
+                b = Barcode.Encode(BarcodeLib.TYPE.FIM, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "Interleaved2of5") 
+                b = Barcode.Encode(BarcodeLib.TYPE.Interleaved2of5, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "ITF14") 
+                b = Barcode.Encode(BarcodeLib.TYPE.ITF14, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "JAN13") 
+                b = Barcode.Encode(BarcodeLib.TYPE.JAN13, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "LOGMARS") 
+                b = Barcode.Encode(BarcodeLib.TYPE.LOGMARS, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "MSI_Mod10") 
+                b = Barcode.Encode(BarcodeLib.TYPE.MSI_Mod10, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "PHARMACODE") 
+                b = Barcode.Encode(BarcodeLib.TYPE.PHARMACODE, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "PostNet") 
+                b = Barcode.Encode(BarcodeLib.TYPE.PostNet, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "Standard2of5") 
+                b = Barcode.Encode(BarcodeLib.TYPE.Standard2of5, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "TELEPEN") 
+                b = Barcode.Encode(BarcodeLib.TYPE.TELEPEN, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "UPC_SUPPLEMENTAL_2DIGIT") 
+                b = Barcode.Encode(BarcodeLib.TYPE.UPC_SUPPLEMENTAL_2DIGIT, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "UPC_SUPPLEMENTAL_5DIGIT") 
+                b = Barcode.Encode(BarcodeLib.TYPE.UPC_SUPPLEMENTAL_5DIGIT, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "UPCA") 
+                b = Barcode.Encode(BarcodeLib.TYPE.UPCA, Text, Width, Height) 
+           End If
+           If (EncodingTypeKey = "UPCE") 
+                b = Barcode.Encode(BarcodeLib.TYPE.UPCE, Text, Width, Height) 
+           End If
+           Dim bitmapData As Byte() = Nothing
+           Using ms As New System.IO.MemoryStream()
+               b.Save(ms, System.Drawing.Imaging.ImageFormat.Bmp)
+               bitmapData = ms.ToArray()
+           End Using
+           Return bitmapData
+       End Function
+</Code>
+  <CodeModules>
+    <CodeModule>BarcodeLib, Version=1.0.0.22, Culture=neutral, PublicKeyToken=ef791f707232c48f</CodeModule>
+    <CodeModule>System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</CodeModule>
+  </CodeModules>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>67661076-3e36-4bee-9ec7-ade862ffbf75</rd:ReportID>
+</Report>

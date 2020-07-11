@@ -1,0 +1,15 @@
+C:\Users\C1609028\source\repos\SFCNotification\Release\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\SFCNotification\Release\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\SFCNotification\CustomizedClickOnce.Common\obj\Release\CustomizedClickOnce.Common.csproj.CoreCompileInputs.cache
+C:\Users\C1609028\source\repos\SFCNotification\CustomizedClickOnce.Common\obj\Release\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\SFCNotification\CustomizedClickOnce.Common\obj\Release\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\SFCNotification\CustomizedClickOnce.Common\obj\Release\CustomizedClickOnce.Common.csprojAssemblyReference.cache
+C:\Users\C1609028\source\repos\SFCAgent Service\Release\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\Release\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Common\obj\Release\CustomizedClickOnce.Common.csproj.CoreCompileInputs.cache
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Common\obj\Release\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Common\obj\Release\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\SFCAgent Service\Release\ClickOnceHelper.cs
+C:\Users\C1609028\source\repos\SFCAgent Service\Release\Globals.cs
+C:\Users\C1609028\source\repos\SFCAgent Service\Release\Keys.cs
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Common\obj\Release\CustomizedClickOnce.Common.csprojAssemblyReference.cache

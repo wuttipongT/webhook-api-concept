@@ -1,0 +1,21 @@
+C:\Users\C1609028\source\repos\CustomizedClickOnce\Debug\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\CustomizedClickOnce\Debug\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.csprojAssemblyReference.cache
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.csproj.CoreCompileInputs.cache
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\SFCNotification\Debug\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\SFCNotification\Debug\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\SFCNotification\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.csprojAssemblyReference.cache
+C:\Users\C1609028\source\repos\SFCNotification\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.csproj.CoreCompileInputs.cache
+C:\Users\C1609028\source\repos\SFCNotification\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\SFCNotification\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\SFCAgent Service\Debug\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\Debug\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.csprojAssemblyReference.cache
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.csproj.CoreCompileInputs.cache
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Common\obj\Debug\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\SFCAgent Service\Debug\ClickOnceHelper.cs
+C:\Users\C1609028\source\repos\SFCAgent Service\Debug\Globals.cs
+C:\Users\C1609028\source\repos\SFCAgent Service\Debug\Keys.cs

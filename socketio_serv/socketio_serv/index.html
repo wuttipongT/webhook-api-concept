@@ -1,0 +1,189 @@
+﻿<!doctype html>
+<html lang="en" >
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="/jquery.json-viewer/json-viewer/jquery.json-viewer.css" type="text/css" rel="stylesheet">
+    <style>
+        #logger {
+            /*background: #333;*/
+        }
+
+        .log-boolean,
+        .log-undefined {
+            color: magenta;
+        }
+
+        .log-object,
+        .log-string {
+            color: orange;
+        }
+
+        .log-number {
+            color: cyan;
+        }
+
+        html {
+            height: 100%;
+        }
+
+        body {
+            height: 100%;
+            display: flex;
+            padding: 0;
+            margin: 0;
+        }
+
+        .Content {
+            flex-grow: 1;
+        }
+
+        .Sidebar {
+            width: 290px;
+            flex-shrink: 0;
+            text-align: center;
+        }
+
+        pre {
+            margin: 0;
+            overflow-y: scroll
+        }
+
+        p {
+            margin-block-start: 0.5em;
+            margin-block-end: 0.5em;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="Sidebar" style="background: #8cc
+">
+        <h1>Socket.IO Client</h1>
+        <div id="future"></div>
+        <form id="form">
+            <p><select id="user" style="width: 225px;"></select></p>
+            <textarea id="chat_input" style="width:225px;height: 100px;">
+SN: VDH7K3AD
+Was NG for 3 times for VFT result.
+</textarea>
+            <br />
+            <select id="type" style="width: 175px;">
+                <option>TYPE_DEFAULT</option>
+                <option>TYPE_INFO</option>
+                <option>TYPE_DANGER</option>
+                <option>TYPE_WARNING</option>
+                <option>TYPE_SUCCESS</option>
+                <option>TYPE_PRIMARY</option>
+            </select>
+            <input type="submit" value="Send">
+            <input type="button" value="Send All" id="all">
+        </form>
+    </div>
+    <div class="Content" style="background:#bed">
+        <pre id="logger" style="height:100%;"></pre>
+        <pre id="json-renderer" style="display:none;"></pre>
+    </div>
+    <script src="/jquery/dist/jquery.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/jquery.json-viewer/json-viewer/jquery.json-viewer.js"></script>
+    
+    <script>
+        //{forceNew: true}
+        var socket = io();
+        /*      (async() => {
+                 await getIp();
+
+              })();
+              */
+
+        /* socket.on('connect', function () {
+             //socket.emit('join', 'Hello World from client');
+             var o = { ip: '127.0.0.1:4200', name: 'localhost' };
+             socket.emit("recieveUserName", o);
+
+         });*/
+        /*
+          socket.on('message', function (data) {
+             console.log(data);
+          });
+          */
+        $(document).on('click', '.json-toggle', function () {
+            return false;
+        });
+        socket.on('log', function (data) {
+            console.log(data);
+        });
+
+        socket.on('refresh', function () {
+            getUsers();
+        });
+
+        $('form').submit(function (e) {
+            e.preventDefault();
+            let id = socket.io.engine.id;
+            socket.emit('sendOtherClientMessage', { ip: $('#user').val(), message: $('#chat_input').val(), id: id, type: $('#type').val() });
+            // $('#chat_input').val('').focus();
+
+        });
+        $('#all').on('click', function (e) {
+            e.preventDefault();
+            socket.emit('someEventForAEveryone', { message: $('#chat_input').val(), type: $('#type').val() });
+        });
+        socket.on('disconnect', function (data) {
+            //socket.emit('join', 'Hello World from client');
+            //socket.disconnect();
+
+        });
+
+        async function getUsers() {
+            var response = await fetch('/users')
+            var data = await response.json();
+
+            $('#user').empty();
+            $.each(data, function (i, item) {
+                $('#user').append($('<option>', {
+                    value: item.ip,
+                    text: item.ip
+                }));
+            });
+
+        }
+
+        (function (logger) {
+
+            console.old = console.log;
+            console.log = function () {
+                var output = "", arg, i;
+
+                for (i = 0; i < arguments.length; i++) {
+                    arg = arguments[i];
+                    output += "<span class=\"log-" + (typeof arg) + "\">";
+
+                    if (
+                        typeof arg === "object" &&
+                        typeof JSON === "object" &&
+                        typeof JSON.stringify === "function"
+                    ) {
+
+                        $('#json-renderer').jsonViewer(arg, { withQuotes: true, withLinks: false });
+
+                        //output += JSON.stringify(arg);
+                        output += $('#json-renderer').html();
+                    } else {
+                        output += arg;
+                    }
+
+                    output += "</span>&nbsp;";
+                }
+
+                logger.innerHTML += output + "<br>";             
+                console.old.apply(undefined, arguments);
+                document.getElementById('logger').scrollTop = document.getElementById('logger').scrollHeight
+            };
+        })(document.getElementById("logger"));
+        // Testing
+        console.log({ 'prop': 'value' });
+
+    </script>
+</body>
+</html>

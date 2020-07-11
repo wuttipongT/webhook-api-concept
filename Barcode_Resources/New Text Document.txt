@@ -1,0 +1,2 @@
+https://www.sqlservercentral.com/articles/linear-barcodes-in-ssrs-using-the-barcode-image-generation-library
+10.10.0.2 DNS

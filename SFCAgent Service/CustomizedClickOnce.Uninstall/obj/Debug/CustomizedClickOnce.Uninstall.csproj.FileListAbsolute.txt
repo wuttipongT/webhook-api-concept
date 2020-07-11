@@ -1,0 +1,20 @@
+C:\Users\C1609028\source\repos\CustomizedClickOnce\Debug\uninstall.exe.config
+C:\Users\C1609028\source\repos\CustomizedClickOnce\Debug\uninstall.exe
+C:\Users\C1609028\source\repos\CustomizedClickOnce\Debug\uninstall.pdb
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.csprojAssemblyReference.cache
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.Properties.Resources.resources
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.csproj.GenerateResource.cache
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.csproj.CoreCompileInputs.cache
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.csproj.CopyComplete
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Uninstall\obj\Debug\uninstall.exe
+C:\Users\C1609028\source\repos\CustomizedClickOnce\CustomizedClickOnce.Uninstall\obj\Debug\uninstall.pdb
+C:\Users\C1609028\source\repos\SFCAgent Service\Debug\uninstall.exe.config
+C:\Users\C1609028\source\repos\SFCAgent Service\Debug\uninstall.exe
+C:\Users\C1609028\source\repos\SFCAgent Service\Debug\uninstall.pdb
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.csprojAssemblyReference.cache
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.Properties.Resources.resources
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.csproj.GenerateResource.cache
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.csproj.CoreCompileInputs.cache
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Uninstall\obj\Debug\CustomizedClickOnce.Uninstall.csproj.CopyComplete
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Uninstall\obj\Debug\uninstall.exe
+C:\Users\C1609028\source\repos\SFCAgent Service\CustomizedClickOnce.Uninstall\obj\Debug\uninstall.pdb

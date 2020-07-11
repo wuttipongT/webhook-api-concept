@@ -1,0 +1,96 @@
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\obj\Release\SFCAgent_Service.Properties.Resources.resources
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\obj\Release\SFCAgent Service.csproj.GenerateResource.cache
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\obj\Release\SFCAgent Service.csproj.CoreCompileInputs.cache
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\obj\Release\SFCAgent Service.csprojAssemblyReference.cache
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ClickOnceHelper.cs
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Globals.cs
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Keys.cs
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SFCAgent Service.exe.config
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SFCAgent Service.exe
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SFCAgent Service.pdb
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\CustomizedClickOnce.Common.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\EngineIoClientDotNet.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Newtonsoft.Json.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SocketIoClientDotNet.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SuperSocket.ClientEngine.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\System.Collections.Immutable.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\System.Collections.Specialized.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\System.Net.NameResolution.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\System.Net.Security.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\System.Net.Sockets.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\WebSocket4Net.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\EnvDTE.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\stdole.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Microsoft.MSXML.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\CustomizedClickOnce.Common.pdb
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\Newtonsoft.Json.xml
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\System.Collections.Immutable.xml
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\obj\Release\SFCAgent Service.csproj.CopyComplete
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\obj\Release\SFCAgent Service.exe
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\obj\Release\SFCAgent Service.pdb
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\BarcodeLib.dll
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\obj\Release\SFCAgent_Service.Main.resources
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\uninstall.exe
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SFCAgent Service.exe.manifest
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\bin\Release\SFCAgent Service.application
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\obj\Release\SFCAgent Service.exe.manifest
+C:\Users\C1609028\source\repos\SFCAgent Service\SFCAgent Service\obj\Release\SFCAgent Service.application
